@@ -1,7 +1,14 @@
 
 
+body {
+    margin: 15px;
+}
+
 .project {
     margin: 15px;
+}
+.subsection {
+    font-size: 1.1em;
 }
 
 a.no-underline {
@@ -21,7 +28,7 @@ img.illustration {
 }
 
 .stack-section {
-    font-size: 0.8em;
+    font-size: 0.9em;
 }
 
 .inline-label {

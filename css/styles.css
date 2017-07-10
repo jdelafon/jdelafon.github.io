@@ -1,0 +1,29 @@
+
+
+.project {
+    margin: 15px;
+}
+
+a.no-underline {
+    text-decoration: none;
+}
+
+/* To disable a link */
+a.disabled {
+    pointer-events: none;
+    color: #ccc;
+}
+
+img.illustration {
+    height: 120px;
+    margin: 15px;
+    border: 1px solid #ccc;
+}
+
+.stack-section {
+    font-size: 0.8em;
+}
+
+.inline-label {
+    font-weight: bold;
+}
